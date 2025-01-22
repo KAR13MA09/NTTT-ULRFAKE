@@ -1,4 +1,4 @@
-# URL-KAR13MA09
+# NTTT-ULR FAKE
 Payload delivery via URL and some social engineering.
  
  This code write by [KAR13MA09](https://github.com/KAR13MA090/)
